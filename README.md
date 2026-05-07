@@ -25,6 +25,7 @@ The AI HR Recruiter System helps automate parts of the recruitment workflow by a
 - Python
 - Machine Learning
 - Natural Language Processing
+- Large language Models
 - Pandas
 - NumPy
 - Scikit-learn
